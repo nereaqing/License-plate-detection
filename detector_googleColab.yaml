@@ -1,0 +1,7 @@
+path: /content/drive/MyDrive/license plates
+train: /content/drive/MyDrive/license plates/images/train 
+val: /content/drive/MyDrive/license plates/images/val
+
+# Classes
+names:
+  0: licence
