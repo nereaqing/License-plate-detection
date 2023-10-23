@@ -15,6 +15,6 @@ The deep learning approach explores the power of neural networks for license pla
 - **YOLO (You Only Look Once) Model**: We implement YOLO, a real-time object detection system, to identify license plates.
 
 ## Collaborators
-Júlia Garcia Torné
-Guillem Samper Argelagués
-Nerea Qing Muñoz Martin
+- Júlia Garcia Torné
+- Guillem Samper Argelagués
+- Nerea Qing Muñoz Martin
