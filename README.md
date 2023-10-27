@@ -6,13 +6,14 @@ License plate detection and recognition play a crucial role in various applicati
 
 ### Classical Computer Vision
 In the classical computer vision approach, it is leveraged traditional image processing techniques, including edge detection, contour analysis, and character recognition. 
+*See in Classical computer vision.ipynb*
 
 ### Deep Learning
 The deep learning approach explores the power of neural networks for license plate detection and recognition. Two primary methods are employed:
 
-- **Fine-tuning a Pre-trained Model**: We take a pre-trained deep learning model, adapt it to our license plate dataset, and fine-tune it for improved accuracy.
+- **Fine-tuning a Pre-trained Model**: We take a pre-trained deep learning model, adapt it to our license plate dataset, and fine-tune it for improved accuracy. *See in Pre trained model.ipynb*
 
-- **YOLO (You Only Look Once) Model**: We implement YOLO, a real-time object detection system, to identify license plates.
+- **YOLO (You Only Look Once) Model**: We implement YOLO, a real-time object detection system, to identify license plates. *See in yolo.ipynb*. All the results, metrics and qualitative results are in the folder *runs/detect/train9*
 
 ## Collaborators
 - Júlia Garcia Torné
